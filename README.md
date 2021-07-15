@@ -1,5 +1,8 @@
+# FizzBuzz 
 
-> このページを開く [https://hiroyuki-moriya.github.io/fizzbuzz_python/](https://hiroyuki-moriya.github.io/fizzbuzz_python/)
+  [概要　product outline](https://hiroyuki-moriya.github.io/fizzbuzz_python/microbit-FizzBuzz_Python.md)  
+
+---
 
 ## 拡張機能として使用
 
