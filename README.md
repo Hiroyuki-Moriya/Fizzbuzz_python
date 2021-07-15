@@ -1,6 +1,6 @@
 # FizzBuzz 
 
-  [概要　product outline](https://hiroyuki-moriya.github.io/fizzbuzz_python/microbit-FizzBuzz_Python.md)  
+  [概要　product outline](https://github.com/Hiroyuki-Moriya/Fizzbuzz_python/blob/master/microbit-FizzBuzz_Python.md)  
 
 ---
 
