@@ -20,9 +20,6 @@ microbit-FizzBuzz_Python.md
     結果を返します。  
 
 
-## メイクコードはこちら。 Makecode is here↓  
-    　https://makecode.microbit.org/_Y9A7zb4mF7TL  
-
 ## Example of a program that uses a function  
 
   When button A is pressed  
@@ -39,6 +36,11 @@ microbit-FizzBuzz_Python.md
           If num is divisible by either 3 or 5, the result will be "FizzBuzz".  
           If num is not divisible by 3 or 5, the result is set to the received num.  
         Returns the result.  
+
+
+## メイクコードはこちら。 Makecode is here↓  
+    　https://makecode.microbit.org/_Y9A7zb4mF7TL  
+
 
 ## Source code
 ```
